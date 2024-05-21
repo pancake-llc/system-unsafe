@@ -1,6 +1,7 @@
 # What
 
-System.Runtime.CompilerServices.Unsafe.6.0.0\lib\netstandard2.0
+- System.Runtime.CompilerServices.Unsafe.6.0.0
+- netstandard2.0
 
 
 # How To Install Package
